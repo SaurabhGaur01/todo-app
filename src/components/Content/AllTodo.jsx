@@ -65,10 +65,10 @@ const AllTodo = ({
                         <form onSubmit={onSubmit}>
                             <div className="input-text">
                                 <div>
-                                    <TextField className= "text-box" id="input" label="Input your TODOs..." onChange={inputChange} value={input} />
+                                    <TextField className="text-box" id="input" label="Input your TODOs..." onChange={inputChange} value={input} />
                                 </div>
                                 <span>
-                                    <Button variant="contained" type='submit'>Add</Button>
+                                    <Button className="add-button" variant="contained" type='submit'>Add</Button>
                                 </span>
                             </div>
                         </form>
