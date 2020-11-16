@@ -1,6 +1,6 @@
 {
-  "name": "getir-to-do-list",
-  "homepage": "https://saurabhgaur01.github.io/getir-to-do-list/",
+  "name": "todo-app",
+  "homepage": "https://saurabhgaur01.github.io/todo-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
